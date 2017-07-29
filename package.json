@@ -1,0 +1,27 @@
+{
+  "name": "timed-colored-log",
+  "version": "0.0.0",
+  "description": "A small revamp of console.log and console.error, adding time banners before messages and coloring errors in red.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedced19/timed-colored-log.git"
+  },
+  "keywords": [
+    "timed",
+    "colored",
+    "log",
+    "logger",
+    "time",
+    "color"
+  ],
+  "author": "Cédric JUNG <cedced19@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cedced19/timed-colored-log/issues"
+  },
+  "homepage": "https://github.com/cedced19/timed-colored-log#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
